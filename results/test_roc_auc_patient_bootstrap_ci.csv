@@ -1,0 +1,4 @@
+Comparison,Macro ROC-AUC or difference,CI 95% lower,CI 95% upper,Valid bootstrap replicates
+Direct Ordinal ConvNeXt,0.9279,0.9197,0.9360,2000
+Proposed Hybrid (PCA + LinearSVC),0.9237,0.9154,0.9318,2000
+Hybrid minus Direct,-0.0042,-0.0080,-0.0007,2000

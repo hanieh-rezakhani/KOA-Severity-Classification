@@ -1,0 +1,6 @@
+KL class,Validation support,Direct Ordinal ConvNeXt ROC-AUC,Proposed Hybrid ROC-AUC
+KL0,328,0.9135,0.9110
+KL1,153,0.7720,0.7715
+KL2,212,0.9056,0.8974
+KL3,106,0.9720,0.9684
+KL4,27,0.9978,0.9909

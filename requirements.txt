@@ -1,0 +1,11 @@
+# Additional packages used by the current Google Colab notebook.
+# PyTorch and torchvision are provided by most Colab runtimes; match their versions to the runtime.
+timm
+kagglehub
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+joblib
+tqdm

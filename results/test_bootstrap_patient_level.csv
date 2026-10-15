@@ -1,0 +1,13 @@
+Model_or_comparison,Metric,Original_test_estimate,CI_95_lower,CI_95_upper
+Direct Ordinal ConvNeXt,Accuracy,0.7216,0.6993,0.744
+Direct Ordinal ConvNeXt,Macro F1,0.7266,0.7018,0.75
+Direct Ordinal ConvNeXt,Balanced Accuracy,0.7249,0.6988,0.7495
+Direct Ordinal ConvNeXt,QWK,0.8806,0.865,0.8945
+Hybrid (PCA + LinearSVC),Accuracy,0.7204,0.6981,0.7452
+Hybrid (PCA + LinearSVC),Macro F1,0.7323,0.7088,0.7564
+Hybrid (PCA + LinearSVC),Balanced Accuracy,0.7238,0.6971,0.7509
+Hybrid (PCA + LinearSVC),QWK,0.8654,0.8485,0.8817
+Hybrid minus Ordinal,Accuracy,-0.0012,-0.0157,0.0133
+Hybrid minus Ordinal,Macro F1,0.0057,-0.0122,0.025
+Hybrid minus Ordinal,Balanced Accuracy,-0.0012,-0.0209,0.018
+Hybrid minus Ordinal,QWK,-0.0152,-0.0233,-0.0073

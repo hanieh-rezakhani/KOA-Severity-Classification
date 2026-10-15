@@ -1,0 +1,3 @@
+Model,Macro ROC-AUC (OvR)
+Direct Ordinal ConvNeXt,0.9279
+Proposed Hybrid (PCA + LinearSVC),0.9237

@@ -1,0 +1,14 @@
+Package validation record — v1.1.0
+
+Notebook file: notebooks/KOA_OrdinalConvNeXt_PCA_LinearSVC_Final.ipynb
+
+- Main and historical notebooks: valid Jupyter Notebook structure.
+- Main notebook: code cells compile after IPython magic transformation.
+- Main notebook: saved outputs from the user's successful Colab execution are retained for the model, Validation/Test metrics, ROC-AUC, and bootstrap cells.
+- Final artifact-check cell output was cleared because its assertions were extended in this packaging revision and have not yet been run after that change.
+- Package files include aggregate CSVs created from the user's displayed outputs, including ROC-AUC per-class tables and AUC bootstrap confidence intervals.
+
+Execution status:
+- The user executed the underlying full model pipeline in Google Colab with a Tesla T4 and shared the completed outputs.
+- The v1.1.0 packaging revision has not been rerun end-to-end in a fresh Colab runtime. Do not claim that every packaging edit has been runtime-tested.
+- The model checkpoint and dataset are not included in the package.
