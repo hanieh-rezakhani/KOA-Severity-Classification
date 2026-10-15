@@ -1,0 +1,4 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the related research manuscript and the original dataset/model sources."
+title: "Automated Knee Osteoarthritis Severity Classification from X-ray Images"
+type: software
